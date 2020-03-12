@@ -1,0 +1,90 @@
+{
+    "profiles":[
+        {
+            "basics":{
+                "name":"Maneesh",
+                "email":"dmaneesh012@gmail.com",
+                "mobile":"+91 9493212555"
+            },
+            "education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"90",
+                    "institute":"Universal High School"
+                },
+                {
+                    "degree":"Diploma - (CSE)",
+                    "percentage":"85",
+                    "institute":"Gudlavalleru Polytechnic"
+                },
+                {
+                    "degree":"B.Tech - (CSE)",
+                    "percentage":"90",
+                    "institute":"VVIT"
+                }
+            ],
+            "skills":[
+                {
+                    "type":"programming languages",
+                    "values":["C","C++","java","python","Ruby"]
+                },
+                {
+                    "type":"Web Technologies",
+                    "values":["HTML","CSS","JavaScript"]
+                },
+                {
+                    "type":"Frameworks&Libraries",
+                    "values":["ReactJs"]
+                },
+                {
+                    "type":"Operating systems",
+                    "values":["windows","Linux"]
+                }
+            ]
+
+        },
+        {
+            "basics":{
+                "name":"Naveen",
+                "email":"naveen@gmail.com",
+                "mobile":"+91 9640429052"
+            },
+            "education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"90",
+                    "institute":"Aditya High School"
+                },
+                {
+                    "degree":"Intermediate - (M.P.C)",
+                    "percentage":"85",
+                    "institute":"Sri Chaitanya Junior College"
+                },
+                {
+                    "degree":"B.Tech - (CSE)",
+                    "percentage":"90",
+                    "institute":"VVIT"
+                }
+            ],
+            "skills":[
+                {
+                    "type":"programming languages",
+                    "values":["C","C++","java","python","Ruby"]
+                },
+                {
+                    "type":"Web Technologies",
+                    "values":["HTML","CSS","JavaScript"]
+                },
+                {
+                    "type":"Frameworks&Libraries",
+                    "values":["ReactJs"]
+                },
+                {
+                    "type":"Operating systems",
+                    "values":["windows","Linux"]
+                }
+            ]
+        }
+        
+    ]
+}
